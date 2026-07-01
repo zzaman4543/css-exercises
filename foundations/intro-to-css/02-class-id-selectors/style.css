@@ -3,13 +3,13 @@ background-color: #fda7a7d5;
 font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
+.size {
+    font-size: 24px;
+}
+
 #two {
     color: rgb(43, 0, 196);
     font-size: 36px;
-}
-
-.size {
-    font-size: 24px;
 }
 
 #four {
