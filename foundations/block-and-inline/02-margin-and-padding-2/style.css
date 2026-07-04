@@ -38,9 +38,10 @@ body {
 }
 
 button {
+  width: 130px;
   background: white;
   border: 1px solid #eee;
   display: block;
   margin: auto;
-  padding: 10px;
+  padding: 8px;
 }
