@@ -20,8 +20,8 @@ img {
   gap: 52px;
 }
 
-.size {
-  flex-basis: 200px;
+.one-plant {
+  max-width: 200px;
 }
 
 /* do not edit this footer */
