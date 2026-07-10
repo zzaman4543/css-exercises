@@ -12,6 +12,8 @@ body {
   background: white;
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
+  align-items: center;
+  padding: 8px;
 }
 
 .profile-image {
@@ -27,6 +29,7 @@ body {
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
+  margin-right: -20px;
 }
 
 button {
@@ -35,6 +38,7 @@ button {
   background: rebeccapurple;
   color: white;
   padding: 8px 24px;
+  margin-right: 16px;
 }
 
 a {
@@ -45,4 +49,14 @@ a {
 
 ul {
   list-style-type: none;
+  gap: 12px;
 }
+
+.right {
+  margin-left: auto;
+}
+
+.header, ul, .right {
+  display: flex;
+}
+
