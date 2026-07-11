@@ -47,9 +47,12 @@ button {
 
 .header, .footer {
   padding: 10px;
-  background-color: #eeeeee;
   display: flex;
   justify-content: space-between;
+}
+
+.footer {
+background-color: #eeeeee;
 }
 
 .content {
