@@ -47,3 +47,14 @@ a {
 .container {
   display: flex;
 }
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.card {
+  height: 200px;
+  width: 200px;
+}
