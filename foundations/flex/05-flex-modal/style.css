@@ -23,7 +23,7 @@ body {
   padding: 10px;
   display: flex;
   justify-content: space-between;
-  gap: 16px;
+  gap: 8px;
 }
 
 .icon {
@@ -38,6 +38,7 @@ body {
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
+  margin-left: 8px;
 }
 
 .close-button {
@@ -80,7 +81,7 @@ button.cancel {
 }
 
 .text {
-  margin: 16px 0;
+  margin: 8px 0;
 }
 
 
