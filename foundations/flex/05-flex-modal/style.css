@@ -74,6 +74,11 @@ button.cancel {
   color: royalblue;
 }
 
+.header {
+  font-weight: bold;
+  font-size: 20px;
+}
+
 .confirm {
   display: flex;
   justify-content: space-between;
