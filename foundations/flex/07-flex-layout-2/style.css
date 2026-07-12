@@ -38,6 +38,9 @@ body {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  height: 300px;
+  width: 300px;
+  padding: 16px;
 }
 
 ul {
@@ -65,8 +68,3 @@ a {
   padding: 48px;
 }
 
-.card {
-  height: 300px;
-  width: 300px;
-  padding: 16px;
-}
