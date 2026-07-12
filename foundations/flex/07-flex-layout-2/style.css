@@ -32,7 +32,6 @@ body {
   box-sizing: border-box;
   font-size: 24px;
   padding: 16px;
-  margin-right: 24px;
 }
 
 .card {
@@ -63,12 +62,11 @@ a {
   display: flex;
   flex-wrap: wrap;
   gap: 16px;
-  margin: 24px 0;
+  padding: 48px;
 }
 
 .card {
-  height: 380px;
-  width: 380px;
-  padding: 4px;
-  flex-shrink: 1;
+  height: 300px;
+  width: 300px;
+  padding: 16px;
 }
