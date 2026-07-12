@@ -10,8 +10,8 @@ body {
   height: 72px;
   background: darkmagenta;
   color: white;
-  font-weight: bold;
-  font-size: 28px;
+  font-weight: 900;
+  font-size: 32px;
   display: flex;
   align-items: center;
   padding-left: 10px;
@@ -68,4 +68,5 @@ a {
   height: 380px;
   width: 380px;
   padding: 4px;
+  flex-shrink: 1;
 }
