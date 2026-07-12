@@ -22,7 +22,6 @@ body {
   background: #eee;
   color: darkmagenta;
   display: flex;
-  flex: 1;
   justify-content: center;
   align-items: center;
 }
@@ -31,6 +30,7 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
+  margin-right: 24px;
 }
 
 .card {
@@ -64,7 +64,8 @@ a {
 }
 
 .card {
-  height: 200px;
-  width: 200px;
-  margin: 24px;
+  height: 380px;
+  width: 380px;
+  padding: 4px;
+  margin-top: 24px;
 }
